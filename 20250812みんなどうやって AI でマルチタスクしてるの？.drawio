@@ -283,6 +283,9 @@
         <mxCell id="ezG9yfGIPUMW8CA5yVgs-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="8XsDLn7xZIn4aUrlmj74-1">
           <mxGeometry x="180" y="64" width="140" height="186" as="geometry" />
         </mxCell>
+        <mxCell id="ezG9yfGIPUMW8CA5yVgs-6" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;リポジトリ１&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="8XsDLn7xZIn4aUrlmj74-1">
+          <mxGeometry x="50" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
