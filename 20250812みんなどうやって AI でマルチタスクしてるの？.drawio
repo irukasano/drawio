@@ -247,7 +247,7 @@
         <mxCell id="8XsDLn7xZIn4aUrlmj74-15" value="docker ( web )" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="8XsDLn7xZIn4aUrlmj74-1">
           <mxGeometry x="190" y="190" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8XsDLn7xZIn4aUrlmj74-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="8XsDLn7xZIn4aUrlmj74-1">
+        <mxCell id="8XsDLn7xZIn4aUrlmj74-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.083;exitY=0.417;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="8XsDLn7xZIn4aUrlmj74-1" source="8XsDLn7xZIn4aUrlmj74-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="290" as="sourcePoint" />
             <mxPoint x="200" y="230" as="targetPoint" />
@@ -255,7 +255,12 @@
         </mxCell>
         <mxCell id="8XsDLn7xZIn4aUrlmj74-20" value="マウント・起動" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8XsDLn7xZIn4aUrlmj74-19">
           <mxGeometry x="-0.1667" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-32" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ezG9yfGIPUMW8CA5yVgs-2" value="docke-compose.yml" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontStyle=2" vertex="1" connectable="0" parent="8XsDLn7xZIn4aUrlmj74-19">
+          <mxGeometry x="0.0893" relative="1" as="geometry">
+            <mxPoint y="49" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8XsDLn7xZIn4aUrlmj74-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="8XsDLn7xZIn4aUrlmj74-1">
